@@ -1,9 +1,8 @@
 # MaxGrade-E
-
-名称：MaxGrade-E
-类型：Win可执行程序
-版权声明：Copyright (c) 2023 Hung
-程序描述：最大等级-E，指获取最大等级的易语言程序
+- 名称：MaxGrade-E
+- 类型：Win可执行程序
+- 版权声明：Copyright (c) 2023 Hung
+- 程序描述：最大等级-E，指获取最大等级的易语言程序
 
 ## 一、全局变量
 - Start_check （运行状态，用于防止运行中手动关闭程序）
